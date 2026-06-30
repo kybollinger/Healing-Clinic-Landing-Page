@@ -19,7 +19,7 @@ simplify data collection for staff.
 
 ## Website Structure
 
-<img src="Assets/landing__page_structure-2.svg" width="500" alt="Page structure of the Healing Clinic landing page, grouped into hook, inform, build trust, and convert">
+<img src="Assets/landing_page_structure-2.svg" width="500" alt="Page structure of the Healing Clinic landing page, grouped into hook, inform, build trust, and convert">
 
 **Event Overview**
 Introduces the Healing Clinic, who it serves, and what participants can expect.
