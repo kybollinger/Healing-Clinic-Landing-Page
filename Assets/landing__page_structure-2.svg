@@ -1,0 +1,84 @@
+<svg width="700" height="600" viewBox="0 0 700 600" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,Helvetica,Arial,sans-serif" role="img" aria-label="Page structure of the Healing Clinic landing page, grouped by purpose into hook, inform, build trust, and convert">
+<defs>
+<filter id="cardSh" x="-20%" y="-60%" width="140%" height="220%">
+<feDropShadow dx="0" dy="1.5" stdDeviation="2.2" flood-color="#3F2B28" flood-opacity="0.10"></feDropShadow>
+</filter>
+</defs>
+<rect x="1" y="1" width="698" height="598" rx="16" fill="#FAF6EE" stroke="#E3DCCD" stroke-width="1"></rect>
+
+<text x="350" y="47" text-anchor="middle" font-size="20" font-weight="600" fill="#3F2B28">Page structure</text>
+<text x="350" y="69" text-anchor="middle" font-size="13" fill="#6E6256">Scroll order, grouped by purpose</text>
+
+
+<rect x="196" y="92" width="470" height="58" rx="12" fill="#F1E9E2"></rect>
+<rect x="196" y="164" width="470" height="142" rx="12" fill="#E9EFE7"></rect>
+<rect x="196" y="320" width="470" height="184" rx="12" fill="#ECE6E2"></rect>
+<rect x="196" y="518" width="470" height="58" rx="12" fill="#F4E6DF"></rect>
+
+
+<line x1="172" y1="121" x2="196" y2="121" stroke="#7B6655" stroke-width="2"></line>
+<rect x="44" y="106" width="128" height="30" rx="15" fill="#7B6655"></rect>
+<text x="108" y="125" text-anchor="middle" font-size="12.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.4">HOOK</text>
+
+<line x1="172" y1="235" x2="196" y2="235" stroke="#536E52" stroke-width="2"></line>
+<rect x="44" y="220" width="128" height="30" rx="15" fill="#536E52"></rect>
+<text x="108" y="239" text-anchor="middle" font-size="12.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.4">INFORM</text>
+
+<line x1="172" y1="412" x2="196" y2="412" stroke="#3F2B28" stroke-width="2"></line>
+<rect x="44" y="397" width="128" height="30" rx="15" fill="#3F2B28"></rect>
+<text x="108" y="416" text-anchor="middle" font-size="12.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.4">BUILD TRUST</text>
+
+<line x1="172" y1="547" x2="196" y2="547" stroke="#A8674A" stroke-width="2"></line>
+<rect x="44" y="532" width="128" height="30" rx="15" fill="#A8674A"></rect>
+<text x="108" y="551" text-anchor="middle" font-size="12.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.4">CONVERT</text>
+
+
+<g filter="url(#cardSh)">
+<rect x="212" y="104" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="176" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="218" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="260" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="332" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="374" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="416" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="458" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+<rect x="212" y="530" width="438" height="34" rx="9" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"></rect>
+</g>
+
+
+<circle cx="234" cy="121" r="11" fill="#7B6655"></circle>
+<text x="234" y="125" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">1</text>
+<text x="258" y="125" font-size="13.5" font-weight="500" fill="#463A31">Hero — theme, date, actions</text>
+
+<circle cx="234" cy="193" r="11" fill="#536E52"></circle>
+<text x="234" y="197" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">2</text>
+<text x="258" y="197" font-size="13.5" font-weight="500" fill="#2F4030">Theme — somatic &amp; sensory healing</text>
+
+<circle cx="234" cy="235" r="11" fill="#536E52"></circle>
+<text x="234" y="239" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">3</text>
+<text x="258" y="239" font-size="13.5" font-weight="500" fill="#2F4030">Experience — the services</text>
+
+<circle cx="234" cy="277" r="11" fill="#536E52"></circle>
+<text x="234" y="281" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">4</text>
+<text x="258" y="281" font-size="13.5" font-weight="500" fill="#2F4030">Reflection polls</text>
+
+<circle cx="234" cy="349" r="11" fill="#3F2B28"></circle>
+<text x="234" y="353" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">5</text>
+<text x="258" y="353" font-size="13.5" font-weight="500" fill="#3F2B28">Today — how it has grown</text>
+
+<circle cx="234" cy="391" r="11" fill="#3F2B28"></circle>
+<text x="234" y="395" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">6</text>
+<text x="258" y="395" font-size="13.5" font-weight="500" fill="#3F2B28">Origin &amp; history</text>
+
+<circle cx="234" cy="433" r="11" fill="#3F2B28"></circle>
+<text x="234" y="437" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">7</text>
+<text x="258" y="437" font-size="13.5" font-weight="500" fill="#3F2B28">A community approach to healing</text>
+
+<circle cx="234" cy="475" r="11" fill="#3F2B28"></circle>
+<text x="234" y="479" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">8</text>
+<text x="258" y="479" font-size="13.5" font-weight="500" fill="#3F2B28">Director&#39;s letter</text>
+
+<circle cx="234" cy="547" r="11" fill="#A8674A"></circle>
+<text x="234" y="551" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">9</text>
+<text x="258" y="551" font-size="13.5" font-weight="500" fill="#6E3F29">Directions &amp; calls to action</text>
+</svg>
