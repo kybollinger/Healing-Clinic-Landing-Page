@@ -45,8 +45,6 @@ through clear calls to action and integrated Jotform registration forms.
 
 ## Impact
 
-<img src="Assets/landing_page_user_flow-2.svg" width="500" alt="Visitor journey for the Healing Clinic landing page, grouped into discover, engage, and take action">
-
 The website centralized everything people needed to learn about and participate
 in the Healing Clinic. Instead of directing people to multiple flyers, emails,
 social media posts, and registration links, the team could share one website
