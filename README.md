@@ -55,4 +55,4 @@ and supported donations and community outreach.
 
 **Tool:** Canva Sites
 
-**Live page:** https://ysadropin.my.canva.site/unofficial-healing-clinic-sensory-somatic-landing-page
+**Live page:** https://ysadropin.my.canva.site/example
