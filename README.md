@@ -1,4 +1,4 @@
-# Healing Clinic 2025: Sensory Somatics
+# Healing Clinic 2025: Sensory Somatics 
 
 **Community Event Landing Page**
 
@@ -18,6 +18,8 @@ also integrated Jotform registrations to centralize participant information and
 simplify data collection for staff.
 
 ## Website Structure
+
+<img src="Assets/landing__page_structure-2.svg" width="500" alt="Page structure of the Healing Clinic landing page, grouped into hook, inform, build trust, and convert">
 
 **Event Overview**
 Introduces the Healing Clinic, who it serves, and what participants can expect.
@@ -42,6 +44,8 @@ Visitors can register, volunteer, donate, access directions, and share the event
 through clear calls to action and integrated Jotform registration forms.
 
 ## Impact
+
+<img src="Assets/landing_page_user_flow-2.svg" width="500" alt="Visitor journey for the Healing Clinic landing page, grouped into discover, engage, and take action">
 
 The website centralized everything people needed to learn about and participate
 in the Healing Clinic. Instead of directing people to multiple flyers, emails,
